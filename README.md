@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**DevMatheus12/DevMatheus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou José Matheus, sou Programador Fron End, atualmente estou aprendendo criar projetos com:HTML, CSS e iniciando aprendizado de JavaSript e React.
 
 Here are some ideas to get you started:
 
